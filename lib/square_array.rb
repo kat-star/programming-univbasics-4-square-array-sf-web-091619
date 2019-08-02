@@ -11,8 +11,7 @@ end
 
 # def square_array(array)
 #   i = 0
-#   squared_arr = []
-  
-#   array.each { |num| squared_arr << num ** 2 }
-#   squared_arr
+
+#   array.map { |num| squared_arr << num ** 2 }
+
 # end
