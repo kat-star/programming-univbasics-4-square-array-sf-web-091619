@@ -8,3 +8,13 @@
 #   end
 #   squared_arr
 # end
+
+def square_array(array)
+  i = 0
+  squared_arr = []
+  
+  array.each do |num|
+    squared_arr << num ** 2
+  end
+  squared_arr
+end
