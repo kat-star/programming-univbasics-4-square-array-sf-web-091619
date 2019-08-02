@@ -10,8 +10,5 @@ def square_array(array)
 end
 
 # def square_array(array)
-#   i = 0
-
 #   array.map { |num| squared_arr << num ** 2 }
-
 # end
